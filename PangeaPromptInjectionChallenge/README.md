@@ -7,7 +7,7 @@ I entered the Pangea AI Escape Room Challenge with the primary goal of topping t
 
 - This blog post on Understanding and Mitigating Prompt Injection Attacks published by Pangea: https://pangea.cloud/blog/understanding-and-mitigating-prompt-injection-attacks/
 - This prompt injection hack cheat sheet for structuring common techniques: https://blog.seclify.com/prompt-injection-cheat-sheet/
-- This specially prompted AI chatbot: LINK HERE
+- This specially prompted AI chatbot: https://poe.com/PromptInjectHackBot
 
 ## Scores
 ### Room 1
