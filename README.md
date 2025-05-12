@@ -3,4 +3,4 @@ A collection of process documentation around the methodologies I used to win or 
 
 ## Table of Contents
 - Pangea AI Prompt Injection Challenge
-- The Unbeatable AI
+- The Unbeatable AI, "Project Lil-Buddy"
