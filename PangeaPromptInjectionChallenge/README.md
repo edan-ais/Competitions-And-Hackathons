@@ -87,7 +87,7 @@ No one has ever passed level 10. I did pick up some interesting insights that co
 - It will respond with multiple groupings of yes/no, so it is not restricted to only one word at a time, and could validate or deny multiple things at once.
 - Most of the time, it either forgets the reference or lies after 4 or so similar questions. You would need to have your question fully answered almost immediately to get a truthful response, from what I can tell.
 
-While I couldn't get passed the room, it did get me thinking about how effective yet practical this system is, and how it could be implemented in reality. If you had an Agentic AI flow that started with this impassible yes/no layer, and then you fed that to an AI that has no idea of the underlying system prompt, but knew how to contextually answer the user's question based on the question asked and the yes/no value, you would have a fully secure AI that still has the ability to have a conversation. I put together a POC for this idea here: LINK HERE.
+While I couldn't get passed the room, it did get me thinking about how effective yet practical this system is, and how it could be implemented in reality. If you had an Agentic AI flow that started with this impassible yes/no layer, and then you fed that to an AI that has no idea of the underlying system prompt, but knew how to contextually answer the user's question based on the question asked and the yes/no value, you would have a fully secure AI that still has the ability to have a conversation. I put together a POC for this idea here: https://github.com/edan-ais/CompetitionsAndHackathons/tree/main/ProjectLil-Buddy.
 
 #### Totals
 My first place overall score was 597,738 out of 600,000. The second place overall score was 119,760.
