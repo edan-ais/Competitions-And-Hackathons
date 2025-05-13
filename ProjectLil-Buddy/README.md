@@ -23,9 +23,8 @@ Lil-Buddy implements security through structural separation rather than content 
 - A primary AI with access to protected information but severely constrained output options (Yes/No only)
 - A secondary AI with natural language capabilities but no access to protected information
 - A process flow manager that handles interactions between these layers and the user
-- The system operates without external dependencies beyond the AI models themselves. All processing follows a defined pipeline: user queries pass to the restricted AI, its binary response is captured, and this response along with the original query is used to generate a conversational reply without additional information leakage.
 
-The security implementation leverages the fundamental information asymmetry between the two AI layers. The conversational AI cannot leak what it doesn't know, and the knowledgeable AI cannot express complex information through its binary channel.
+The system operates without external dependencies beyond the AI models themselves. All processing follows a defined pipeline: user queries pass to the restricted AI, its binary response is captured, and this response along with the original query is used to generate a conversational reply without additional information leakage. The security implementation leverages the fundamental information asymmetry between the two AI layers. The conversational AI cannot leak what it doesn't know, and the knowledgeable AI cannot express complex information through its binary channel.
 
 ## Key Features and User Benefits
 Lil-Buddy provides a conversational interface to protected information without the risk of unwanted disclosure. Users experience natural interactions while system administrators maintain unprecedented security guarantees.
